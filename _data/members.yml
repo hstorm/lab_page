@@ -1,0 +1,40 @@
+- name: Hugo Storm
+  degrees: PhD
+  image: team_storm.jpg
+  altimage: 
+  position: Junior Research Group Leader, PhenoRob
+  email: hugo.storm@ilr.uni-bonn.de
+  website: 
+  scholar: hBtefwQAAAAJ&hl
+  # twitter: 
+  linkedin_username: hugo-storm-999a66a2
+  research_gate_profile: Hugo_Storm
+  github: hstorm
+  # orcid: "orcid.org/0000-0001-9188-1920"
+  description: I am working in PhenoRob
+  cv_page: cv_storm
+              
+- name: Elin Martinsson
+  degrees: Msc
+  image: team_martinsson.jpg
+  altimage: 
+  position: PhD student
+  email: elin.martinsson@ilr.uni-bonn.de
+  # scholar: 
+  # website: 
+  description: I am working in PhenoRob
+  cv_page: cv_martinsson
+
+- name: Anna Massfeller
+  degrees: Msc
+  image: team_massfeller.jpg
+  altimage: 
+  position: PhD student
+  email: anna.massfeller@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: 5kUDcJ0AAAAJ
+  description: I am working in PhenoRob
+  cv_page: cv_massfeller
+              
+              
+   

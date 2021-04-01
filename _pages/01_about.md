@@ -6,7 +6,7 @@ description: Junior Research Group Leader, <a href="http://www.phenorob.de/">Phe
 
 profile:
   align: right
-  image: storm.jpg
+  image: team_storm.jpg
   address: >
     <p>Niebuhrstraße 1a</p>
     <p>53115 Bonn</p>
