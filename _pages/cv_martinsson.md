@@ -36,7 +36,7 @@ nav: false
 {% endfor %}
 
 <div class="cv">
-	{% for entry in site.data.cv_storm %}
+	{% for entry in site.data.cv_martinsson %}
 		<div class="card mt-3 p-3">
 			<h3 class="card-title">{{ entry.title }}</h3>
 			<div>

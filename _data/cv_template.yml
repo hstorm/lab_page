@@ -2,11 +2,11 @@
   type: map
   contents:
   - name: Full Name
-    value: Hugo Storm
+    value: Otilia Stretcu
   - name: Contact
-    value: hugo.storm@ilr.uni-bonn.de
+    value: otiliastr [at] gmail [dot] com
   - name: Languages
-    value: German (native), English (fluent)
+    value: Romanian (native), English (fluent), Spanish (beginner), German (beginner), Swedish (beginner)
 
 - title: Research Areas
   type: list
