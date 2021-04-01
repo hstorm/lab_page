@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hugo
+first_name: Storm
 middle_name:
-last_name: Storm
+last_name: Lab
 email: hugo.storm@ilr.uni-bonn.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -42,15 +42,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: hstorm # your GitHub user name
+# github_username: hstorm # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: hugo-storm-999a66a2 # your LinkedIn user name
-scholar_userid: hBtefwQAAAAJ&hl # your Google Scholar ID
+# linkedin_username: hugo-storm-999a66a2 # your LinkedIn user name
+# scholar_userid: hBtefwQAAAAJ&hl # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Hugo_Storm # your profile on ResearchGate
+# research_gate_profile: Hugo_Storm # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
