@@ -4,3 +4,7 @@
   - name: Full Name
     value: Anna Massfeller
 
+- title: Research Areas
+  type: list
+  contents:
+  - 'I am an Agricultural economist'
