@@ -3,4 +3,8 @@
   contents:
   - name: Full Name
     value: Elin Martinsson
- 
+
+    - title: Research Areas
+  type: list
+  contents:
+  - 'I am an Agricultural economist'
