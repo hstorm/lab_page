@@ -7,7 +7,7 @@
 - title: Research Areas
   type: list
   contents:
-  - 'I am a Doctoral Student in Agricultural Economics with a passion for behavioral economics and farmers motivations. I am interested in the various factors that influence farmers decision making. By exploring these factors I want to contribute to the development of environmental beneficially and farmer friendly policies.'
+  - 'I am a Doctoral Student in Agricultural Economics with a passion for behavioral economics and farmers'' motivations. I am interested in the various factors that influence farmers decision making. By exploring these factors I want to contribute to the development of environmental beneficially and farmer friendly policies.'
 
 - title: Academic Education
   type: table
@@ -53,7 +53,7 @@
 - title: 'Grants, Awards'
   type: table
   contents:
-    - year: Awards
+  - year: Awards
     items:
     - 'Theodor Brinkmann Award for Young Scientists (Nachwuchspreis) for the concept of my Masterthesis 
     “Farmers’ acceptance of result-based agri-environmental schemes – a case study with arable farmers in North Rhine-Westphalia”'
