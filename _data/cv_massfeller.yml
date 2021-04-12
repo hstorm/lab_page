@@ -13,17 +13,17 @@
   type: table
   contents:
   - title: Agricultural and Food Economics (Minor specifications in Resource and Environmental Economics and Agricultural and Development Policy), University of Bonn
-    year: 10/18–11/20
+    year: '10/18–11/20'
     description:
     - 'Degree: Master of Science (Agricultural Economist)'
     - 'Thesis: Farmers´ acceptance of result-based agri-environmental schemes - a case study with arable farmers in North Rhine-Westphalia'
   - title: Agricultural Science (specialisation in Agricultural and Food Economics), University of Bonn
-    year: 10/14–04/18
+    year: '10/14–04/18'
     description:
     - 'Degree: Bachelor of Science'
     - 'Thesis: Determinants for the conversion to organic farming of dairy farms in North Rhine-Westphalia'
   - title: University entrance diploma (Abitur), Städtisches Gymnasium Hennef
-    year: 03/13
+    year: '03/13'
 
 - title: Work Experience
   type: table
@@ -35,11 +35,11 @@
   - title: 'Student Assistant - Deutscher Verband Tiernahrung (DVT), Bonn, Preparation and support for the annual conference in Berlin' 
     year: '09/18'
  
-  title: Internships and Stays Abroad
+- title: Internships and Stays Abroad
   type: table
   contents:
   - title: 'Internship - Deutscher Raiffeisenverband (DRV), Division Livestock and Meat, Berlin, Germany' 
-    year: '04/2018 - 07/2018' 
+    year: '04/18-07/18' 
   - title: 'Internship - École Nationale Supérieure Agronomique de Toulouse (ENSAT), Toulouse, France'
     year: '07/17' 
     description: 'Qualitative analysis of interviews with French farmers concerning their motivation to convert to organic agriculture'
@@ -48,9 +48,9 @@
   - title: 'Internship - Demeter-Farm in the village community Tennental in Deckenpfronn, near Stuttgart, Germany' 
     year: '09/15'
   - title: 'Internship – Organic Farm in St.Martin de Concornac, Cevennes, Southern France' 
-    year: '07/14 - 08/14'
+    year: '07/14-08/14'
 
-title: 'Grants, Awards'
+- title: 'Grants, Awards'
   type: table
   contents:
     - year: Awards
