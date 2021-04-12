@@ -7,4 +7,21 @@
 - title: Research Areas
   type: list
   contents:
-  - 'I am an Agricultural economist'
+  - 'I am an Agricultural economist with a passion for behavioral economics and farmers' inherent charactersitics. I am interested in the various factors that influence farmers' decision making. 
+     By exploring these factors I want to contribute to the development of environmental beneficially policies.'
+
+- title: Academic Education
+  type: table
+  contents:
+  - title: Agricultural and Food Economics (Minor specifications in Resource and Environmental Economics and Agricultural and Development Policy), University of Bonn
+    year: 10/18–11/20
+    description:
+    - 'Degree: Master of Science (Agricultural Economist)'
+    - 'Thesis: Farmers´ acceptance of result-based agri-environmental schemes - a case study with arable farmers in North Rhine-Westphalia'
+  - title: Agricultural Science (specialisation in Agricultural and Food Economics), University of Bonn
+    year: 10/14–04/18
+    description:
+    - 'Degree: Bachelor of Science'
+    - 'Thesis: Determinants for the conversion to organic farming of dairy farms in North Rhine-Westphalia'
+  - title: University entrance diploma (Abitur), Städtisches Gymnasium Hennef
+    year: 03/13
