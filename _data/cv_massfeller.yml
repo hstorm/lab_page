@@ -7,7 +7,7 @@
 - title: Research Areas
   type: list
   contents:
-  - 'I am an Agricultural economist with a passion for behavioral economics and farmers' inherent charactersitics. I am interested in the various factors that influence farmers' decision making. 
+  - 'I am a Doctoral student in Agricultural economics with a passion for behavioral economics and farmers' charactersitics. I am interested in the various factors that influence farmers' decision making. 
      By exploring these factors I want to contribute to the development of environmental beneficially policies.'
 
 - title: Academic Education
@@ -25,3 +25,42 @@
     - 'Thesis: Determinants for the conversion to organic farming of dairy farms in North Rhine-Westphalia'
   - title: University entrance diploma (Abitur), Städtisches Gymnasium Hennef
     year: 03/13
+
+- title: Work Experience
+  type: table
+  contents:
+  - title: 'Research Assistant – EuroCARE European Centre for Agricultural, Regional and Environmental Policy Research, Bonn, Germany' 
+    year: 'since 10/2018 - Now' 
+  - title: 'Student Assistant, Chair of Production Economics, Institute for Food and Resource Economics, University of Bonn, Germany' 
+    year: '02/20-05/20 and 10/20 - 11/20'
+  - title: 'Student Assistant - Deutscher Verband Tiernahrung (DVT), Bonn, Preparation and support for the annual conference in Berlin' 
+    year: '09/18'
+ 
+  title: Internships and Stays Abroad
+  type: table
+  contents:
+  - title: 'Internship - Deutscher Raiffeisenverband (DRV), Division Livestock and Meat, Berlin, Germany' 
+    year: '04/2018 - 07/2018' 
+  - title: 'Internship - École Nationale Supérieure Agronomique de Toulouse (ENSAT), Toulouse, France'
+   year: '07/17' 
+	 description: 'Qualitative analysis of interviews with French farmers concerning their motivation to convert to organic agriculture'
+  - title: 'Erasmus-Semester in Toulouse, École Nationale Supérieure Agronomique de Toulouse (ENSAT), France'
+    year: '03/17-06/17'
+  - title: 'Internship - Demeter-Farm in the village community Tennental in Deckenpfronn, near Stuttgart, Germany' 
+    year: '09/15'
+  - title: 'Internship – Organic Farm in St.Martin de Concornac, Cevennes, Southern France' 
+    year: '07/14 - 08/14'
+
+title: 'Grants, Awards'
+  type: table
+  contents:
+    - year: Awards
+    items:
+    - 'Theodor Brinkmann Award for Young Scientists (Nachwuchspreis) for the concept of my Masterthesis 
+    “Farmers’ acceptance of result-based agri-environmental schemes – a case study with arable farmers in North Rhine-Westphalia”'
+
+- title: Additional Qualifications 
+  type: list
+  contents:
+  - '○ Languages: German (native), English, French'
+  - '○ Software Skills:  R, SPSS'
