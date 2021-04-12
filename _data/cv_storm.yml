@@ -2,7 +2,9 @@
 - title: Research Areas
   type: list
   contents:
-  - 'I am an Agricultural economist with a focus on applied econometrics and machine learning. I am interested in the digitalization of agriculture, particularly, in the use of Machine Learning to enhance agricultural and the analysis of the social and environmental impacts of this process. I am also working on Deep Learning methods for applied policy analysis.'
+  - 'I am an Agricultural economist with a focus on applied econometrics and 
+  machine learning. I am interested in farm technology adoption processes and 
+  their effect on environmental and economic outcomes.'
   
 - title: Academic Education
   type: table
@@ -33,7 +35,7 @@
   - title: 'Junior Research Group Leader, Cluster of Excellence "PhenoRob - Robotics and Phenotyping for Sustainable Crop Production", University of Bonn, Germany' 
     year: '10/20–NOW'
   - title: 'Senior Data Scientist, DPDHL Group, Bonn' 
-    year: '05/2019 – 09/2020'
+    year: '05/19 – 09/20'
   - title: 'Researcher (PostDoc) at the Institute for Food and Resource Economics, Eco-nomic and Agricultural Policy Group, University of Bonn, Germany' 
     year: '08/14–04/19'
   - title: 'Researcher (PhD candidate) at the Institute for Food and Resource Econom-ics, Economic and Agricultural Policy Group, University of Bonn, Germany' 
@@ -44,6 +46,11 @@
 - title: Consultancy 
   type: table
   contents:
+  - title: 'World Bank' 
+    description:
+    - 'Project: Short term Consultant' 
+    - 'Topic: Application of Causal Machine learning approaches for analyzing water quality impacts.'
+    year: '12/20–04/21'
   - title: 'EOPTI, Neunkirchen' 
     description:
     - 'Project: Data science consulting' 
