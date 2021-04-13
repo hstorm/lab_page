@@ -16,10 +16,14 @@
     - 'Summa cum laude'
   - title: Completion of the Graduate School Programme of the Theodor-Brinkmann-Graduate School, University of Bonn
     year: 08/14
-  - title: DAAD Project-related exchange (PPP)
-    description: Norwegian Institute of Bioeconomy Research (NIBIO), Oslo, Norway
+  - title: Visiting Scholar, NIBIO, Oslo, Norway
+    description: 
+    - 'Norwegian Institute of Bioeconomy Research (NIBIO), Oslo, Norway'
+    - 'Funded by a DAAD Project-related exchange stipend (PPP)'
     year: 03/13–04/13 
-  - title: Visiting Scholar, School of Economic Sciences, Washington State University, Pullman, Washington, USA
+  - title: Visiting Scholar, Washington State University, Pullman, Washington, USA
+    description: 
+    - 'Research stay at the School of Economic Sciences, Washington State University, Pullman, Washington, USA'
     year: 08/10–10/10
   - title: Agricultural Science (specialisation in Agricultural Economics and Sociology), University of Bonn
     year: 10/04–04/09
@@ -105,5 +109,5 @@
   type: list
   contents:
   - '○ Languages: German (native), English'
-  - '○ Software Skills: Python (Keras/Tensorflow, pandas, numpy, matplotlib), Matlab, GAUSS, GAMS, EViews, R, Stata, mySQL/PHP/jQuery'
+  - '○ Software Skills: Python (Keras/Tensorflow, sklearn, pandas, numpy, matplotlib), Matlab, GAUSS, GAMS, EViews, R, Stata, mySQL/PHP/jQuery'
 
