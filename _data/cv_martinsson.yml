@@ -8,3 +8,11 @@
   type: list
   contents:
   - 'I am an Agricultural economist'
+
+  - title: Academic Education
+  type: table
+  contents:
+  - title: Masters degree in Economics, Swedish University of Agricultural Sciences
+    year: 09/18-06/20
+    description:
+    - 'Thesis: Eco-efficiency in Swedish dairy farms - incorporating sustainability into the measure of eco-efficiency'
