@@ -93,13 +93,13 @@
     - 'Publication award from the Faculty of Agriculture, University of Bonn for the publication: Direct payments, spatial competition and farm survival in Norway 
     (with K. Mittenzwei and T. Heckelei) American Journal of Agricultural Econom-ics 97(4):1192-1205'
 
-- title: Teaching Experience
-  type: table
-  contents:
-  - title: 'Lecture Advanced Applied Econometrics (co-taught 50%, Master Level, University of Bonn), Class evaluation is available.'
-    year: SS2018
-  - title: 'TODO'
-    year: 'TODO'
+# - title: Teaching Experience
+#   type: table
+#   contents:
+#   - title: 'Lecture Advanced Applied Econometrics (co-taught 50%, Master Level, University of Bonn), Class evaluation is available.'
+#     year: SS2018
+#   - title: 'TODO'
+#     year: 'TODO'
 
 - title: Additional Qualifications 
   type: list
