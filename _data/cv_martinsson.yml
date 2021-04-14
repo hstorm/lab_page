@@ -7,4 +7,52 @@
 - title: Research Areas
   type: list
   contents:
-  - 'I am an Agricultural economist'
+  - 'I am a Doctoral student in Agricultural economics currently conducting research on indirect effects of 
+  technology in agriculture. Particularly, I am interested in how eco-efficiency can be used to evaluate indirect 
+  environmental effects. Through my research, I want to contribute knowledge on the effects of technology
+  in agriculture.'
+
+- title: Academic Education
+  type: table
+  contents:
+  - title: Masters degree in Economics, Swedish University of Agricultural Sciences
+    year: 09/18-06/20
+    description:
+    - 'Degree: Master of Science (Economics)'
+    - 'Thesis: Eco-efficiency in Swedish dairy farms - incorporating sustainability into the measure of eco-efficiency'
+
+  - title: Bachelors degree in Economics, Stockholm University
+    year: 09/16-06/18
+    description:
+    - 'Degree: Bachelor of Science'
+
+- title: Work Experience
+  type: table
+  contents:
+  - title: 'Doctoral student, Cluster of Excellence "PhenoRob - Robotics and Phenotyping for Sustainable Crop Production", University of Bonn, Germany' 
+    year: '11/20–NOW'
+  - title: 'Student assistant, Swedish University of Agricultural Sciences' 
+    year: '10/19–12/19'
+
+- title: Internships
+  type: table
+  contents:
+  - title: 'Internship - Forum for reforms (Fores),' 
+    year: '08/20–10/20'
+  - title: 'Internship - Swedish Society of Nature Conservations,' 
+    year: '08/17–01/18'
+    
+- title: 'Grants, Awards'
+  type: table
+  contents:
+  - year: Awards
+    items:
+    - 'Lantmännen agricultural scholarship for my Masterthesis'
+
+- title: Additional Qualifications 
+  type: list
+  contents:
+  - '○ Languages: Swedish (native), English'
+  - '○ Software Skills: R, Stata'
+
+

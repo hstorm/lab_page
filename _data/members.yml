@@ -11,7 +11,7 @@
   research_gate_profile: Hugo_Storm
   github: hstorm
   # orcid: "orcid.org/0000-0001-9188-1920"
-  description: I am working in PhenoRob
+  description: 'I am an Agricultural economist with a focus on applied econometrics and machine learning. I am interested in farm technology adoption processes and their effect on environmental and economic outcomes.'
   cv_page: cv_storm
               
 - name: Elin Martinsson
@@ -20,9 +20,12 @@
   altimage: 
   position: PhD student
   email: elin.martinsson@ilr.uni-bonn.de
-  # scholar: 
+  scholar: https://scholar.google.com/citations?user=CVYjRQIAAAAJ&hl=en&oi=sra 
   # website: 
-  description: I am working in PhenoRob
+  description: 'I am a Doctoral student in Agricultural economics currently conducting research on indirect effects of 
+  technology in agriculture. Particularly, I am interested in how eco-efficiency can be used to evaluate indirect 
+  environmental effects. Through my research, I want to contribute knowledge on the effects of technology
+  in agriculture.'
   cv_page: cv_martinsson
 
 - name: Anna Massfeller
