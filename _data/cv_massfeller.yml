@@ -1,18 +1,13 @@
-- title: General Information
-  type: map
-  contents:
-  - name: Full Name
-    value: Anna Massfeller
 
 - title: Research Areas
   type: list
   contents:
-  - 'Behavioral Economics'
+  - 'Behavioral Economics, Social Norms'
   - 'Sustainable Agriculture'
-  - 'Farm Management'
+  - 'Farm Management, Farmers´ Decision Making'
   - 'Agriculttural Policies'
   - 'Environmental Economics'
-  
+
 - title: Academic Education
   type: table
   contents:
