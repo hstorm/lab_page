@@ -31,7 +31,7 @@ Welcome to our group page!
 
 ## contact
 <a  href="{{ 'cv_storm' | relative_url }}">Hugo Storm, PhD</a>  
-Junior Research Group Leader  
+Research Group Leader  
 Niebuhrstraße 1a  
 53115 Bonn, Germany  
 
