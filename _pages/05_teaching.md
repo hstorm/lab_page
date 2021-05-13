@@ -17,7 +17,7 @@ nav: true
 **Instructor**
 Hugo Storm - University of Bonn, May 2021
 
-**Lecture Videos [Comming soon...]** 
+**Lecture Videos [Coming soon...]** 
 
 **<a href="https://docs.google.com/presentation/d/15KhGbBiptpBqisdCcfm1GV7wqHx7bh2P9RuMSQ1-hxw/edit?usp=sharing" target="_blank">Lecture Slides</a>**  
 
