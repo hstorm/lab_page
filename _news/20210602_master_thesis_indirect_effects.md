@@ -5,4 +5,4 @@ inline: true
 ---
 
 We are currently advertising a master thesis topic on the effects of improved water irrigation. For more information, click 
-<a href="{{ site.baseurl }}/assets/pdf/Master_thesis_advert.pdf">here</a> 
+<a href="{{ site.baseurl }}/assets/pdf/Master_thesis_advert.pdf">here.</a> 
