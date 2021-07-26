@@ -1,0 +1,32 @@
+# - name: Alexander Michael Vocaet
+#   degrees: Msc
+#   image: vocaet.jpg
+#   altimage: 
+#   position: Student Assistant
+#   email: s7alvoca@uni-bonn.de
+#   # website: 
+#   # scholar: hBtefwQAAAAJ&hl
+#   # twitter: 
+#   # linkedin_username: hugo-storm-999a66a2
+#   # research_gate_profile: Hugo_Storm
+#   # github: hstorm
+#   # orcid: "orcid.org/0000-0001-9188-1920"
+#   description: ' '
+#   # cv_page: cv_storm
+  
+- name: Georgi Lazarov
+  degrees: Bsc
+  # image: 
+  altimage: 
+  position: Student Assistant
+  email: georgi.st.lazarov@gmail.com
+  # website: 
+  # scholar: hBtefwQAAAAJ&hl
+  # twitter: 
+  # linkedin_username: hugo-storm-999a66a2
+  # research_gate_profile: Hugo_Storm
+  # github: hstorm
+  # orcid: "orcid.org/0000-0001-9188-1920"
+  description: ' '
+  # cv_page: cv_storm
+  
