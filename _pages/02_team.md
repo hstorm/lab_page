@@ -45,7 +45,7 @@ nav: true
   {% for person in site.data.affiliates %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; margin-left:0px">
     <div class = "col-md-12">
-        <img class="pull-right" style="float: right; width: 43%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
+        <img class="pull-right" style="float: right; width: 43%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="">
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4> 
         {{person.position}} <br>
         <i class="fa fa-envelope"></i> <em>{{person.email}}</em> <br>
