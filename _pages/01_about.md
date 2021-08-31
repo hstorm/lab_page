@@ -34,7 +34,8 @@ We are part of the Cluster of Excellence <a href="http://www.phenorob.de/" targe
 <a  href="{{ 'cv_storm' | relative_url }}">Hugo Storm, PhD</a>  
 Research Group Leader  
 Niebuhrstraße 1a  
-53115 Bonn, Germany  
+53115 Bonn, Germany
+Phone: +49 228 60828  
 
 <i class="fa fa-envelope"></i> *hugo.storm@ilr.uni-bonn.de*
 
