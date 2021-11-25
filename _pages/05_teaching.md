@@ -12,12 +12,12 @@ nav: true
 *Guest Lecture: Advanced Applied Econometrics, Master of Agricultural and Food Economics, SS2021, Uni Bonn*
 
 
-<img style="width: 80%; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/teaching_slide_title_lassoLecture.png" alt="title ML course">
+<!-- <img style="width: 80%; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/teaching_slide_title_lassoLecture.png" alt="title ML course"> -->
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oDVATVVYOnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Instructor**
 Hugo Storm - University of Bonn, May 2021
-
-**Lecture Videos [Coming soon...]** 
 
 **<a href="https://docs.google.com/presentation/d/15KhGbBiptpBqisdCcfm1GV7wqHx7bh2P9RuMSQ1-hxw/edit?usp=sharing" target="_blank">Lecture Slides</a>**  
 
