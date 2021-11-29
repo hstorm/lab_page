@@ -13,27 +13,29 @@ description: Junior Research Group , <a href="http://www.phenorob.de/">PhenoRob<
 #     <p>Germany</p>
 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
 
 ---
 
-Welcome to our group page!
-
 <a href="http://www.phenorob.de/" target="_blank"><img style="width: 52%; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/cropped-phenorob.jpg" alt="logo PhenoRob"></a>
 
+### Welcome to our group page!
+The research of the group focuses on developing and applying novel **data science** tools in the area of **agricultural** and **environmental economics**. One particular focus is on applying **econometric** and **machine learning** tools to answer **causal research questions**.
 
+We are part of the Cluster of Excellence <a href="http://www.phenorob.de/" target="_blank"> “PhenoRob – Robotics and Phenotyping for Sustainable Crop Production”</a> at the <a href="https://www.uni-bonn.de/de" target="_blank">University of Bonn</a> and <a href="https://www.fz-juelich.de/portal/EN/Home/home_node.html" target="_blank">Forschungszentrum Jülich</a>. PhenoRob aims to enhance the sustainability of crop production by optimizing breeding and farm management using new technologies. Our focus in in PhenoRob is on studying the economic and environmental aspects of farm level agricultural technology. Here, we aim to understand under which conditions farmers adopt novel technologies, how they are used in practice and what economic and environmental consequences result from this. With this we aim to contribute to answering the simple, but challenging, question of **“how to produce more with less”**. 
 
 ---
 
 
 ## contact
 <a  href="{{ 'cv_storm' | relative_url }}">Hugo Storm, PhD</a>  
-Junior Research Group Leader  
+Research Group Leader  
 Niebuhrstraße 1a  
-53115 Bonn, Germany  
+53115 Bonn, Germany
+Phone: +49 228 60828  
 
 <i class="fa fa-envelope"></i> *hugo.storm@ilr.uni-bonn.de*
 
