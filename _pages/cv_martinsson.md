@@ -13,7 +13,15 @@ nav: false
         <img class="pull-right" style="float: right; width: 43%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4> 
         {{person.position}} <br>
-        <i class="fa fa-envelope"></i> <em>{{person.email}}</em> <br>
+		{% if person.address %}
+			<br>
+          <i class="fa fa-map-marked-alt"></i> {{person.address}} <br>
+        {% endif %}
+        {% if person.phone %}
+          <i class="fa fa-phone"></i> {{person.phone}} <br>
+        {% endif %}
+		<br>
+		<i class="fa fa-envelope"></i> <em>{{person.email}}</em> <br>
         {% if person.twitter %}
           <i class="fab fa-twitter"></i> <a href= "http://twitter.com/{{person.twitter}}" target="_blank"> @{{person.twitter}} </a> <br>
         {% endif %}
