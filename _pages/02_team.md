@@ -14,6 +14,14 @@ nav: true
         <img class="pull-right" style="float: right; width: 43%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4> 
         {{person.position}} <br>
+        {% if person.address %}
+        <br>
+          <i class="fa fa-map-marked-alt"></i> {{person.address}} <br>
+        {% endif %}
+        {% if person.phone %}
+          <i class="fa fa-phone"></i> {{person.phone}} <br>
+        {% endif %}
+        <br>
         <i class="fa fa-envelope"></i> <em>{{person.email}}</em> <br>
         {% if person.twitter %}
           <i class="fab fa-twitter"></i> <a href= "http://twitter.com/{{person.twitter}}" target="_blank"> @{{person.twitter}} </a> <br>
@@ -40,7 +48,7 @@ nav: true
 {% endfor %}
 
 {% if site.data.affiliates %}
-  <h2>Student assistance</h2>
+  <h2>Student assistance / Master students</h2>
   <br>
   {% for person in site.data.affiliates %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; margin-left:0px">

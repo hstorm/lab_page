@@ -14,7 +14,15 @@ nav: false
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4> 
         {{person.position}} <br>
         <i class="fa fa-envelope"></i> <em>{{person.email}}</em> <br>
-        {% if person.twitter %}
+		{% if person.address %}
+			<br>
+          <i class="fa fa-map-marked-alt"></i> {{person.address}} <br>
+        {% endif %}
+        {% if person.phone %}
+          <i class="fa fa-phone"></i> {{person.phone}} <br>
+        {% endif %}
+		<br>
+		{% if person.twitter %}
           <i class="fab fa-twitter"></i> <a href= "http://twitter.com/{{person.twitter}}" target="_blank"> @{{person.twitter}} </a> <br>
         {% endif %}
         {% if person.website %}
