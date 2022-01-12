@@ -48,7 +48,7 @@ nav: true
 {% endfor %}
 
 {% if site.data.affiliates %}
-  <h2>Student assistance / Master students</h2>
+  <h2>Student assistance / Bachelor & Master students</h2>
   <br>
   {% for person in site.data.affiliates %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; margin-left:0px">
