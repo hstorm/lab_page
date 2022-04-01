@@ -5,11 +5,11 @@ title: talks
 description: ""
 nav: true
 ---
-# Conference presentation: Lessons learned from current technology 
-#### presented at the 2nd DIGICROP Conference Bonn 2022
+## Conference presentation: Lessons learned from current technology 
+### presented at the 2nd DIGICROP Conference Bonn 2022
 *Elin Martinsson, Anna Massfeller (29.03.2022)*
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/m5mcAvRlGpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/m5mcAvRlGpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -17,7 +17,7 @@ nav: true
 #### presented at the 31ST INTERNATIONAL CONFERENCE OF AGRICULTURAL ECONOMISTS (ICAE)
 *Anna Massfeller (22.08.2021)*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YM50o09VHrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YM50o09VHrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
