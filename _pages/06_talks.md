@@ -5,7 +5,13 @@ title: talks
 description: ""
 nav: true
 ---
+# Conference presentation: Lessons learned from current technology 
+#### presented at the 2nd DIGICROP Conference Bonn 2022
+*Elin Martinsson, Anna Massfeller (29.03.2022)*
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/m5mcAvRlGpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 ## Conference presentation: Farmers' acceptance of result-based agri-environmental schemes - evidence from North Rhine-Westphalia 
 #### presented at the 31ST INTERNATIONAL CONFERENCE OF AGRICULTURAL ECONOMISTS (ICAE)
