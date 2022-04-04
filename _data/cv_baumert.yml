@@ -1,0 +1,13 @@
+- title: General Information
+  type: map
+  contents:
+  - name: Full Name
+    value: Josef Baumert
+
+- title: Research Areas
+  type: list
+  contents:
+  - 'I am a Doctoral student in Agricultural economics...'
+
+
+

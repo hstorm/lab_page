@@ -48,6 +48,21 @@
   cv_page: cv_massfeller
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
+
+- name: Josef Baumert
+  degrees: Msc
+  image: team_baumert.jpg
+  altimage: 
+  position: PhD student
+  email: josef.baumert@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  # github: AnnaMassfeller
+  description: 'I am a Doctoral Student in Agricultural Economics...'
+  cv_page: cv_baumert
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
               
               
    
