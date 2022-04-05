@@ -1,9 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-  - name: Full Name
-    value: Josef Baumert
-
 - title: Research Areas
   type: list
   contents:
