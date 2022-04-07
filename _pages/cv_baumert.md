@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /cv_massfeller/
-title: Anna Massfeller
+permalink: /cv_baumert/
+title: Josef Baumert
 nav: false
 ---
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 {% for person in site.data.members %}
-{% if person.name == "Anna Massfeller" %}
+{% if person.name == "Josef Baumert" %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; margin-left:0px">
     <div>
         <img class="pull-right" style="float: right; width: 43%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
@@ -22,7 +22,7 @@ nav: false
           <i class="fa fa-phone"></i> {{person.phone}} <br>
         {% endif %}
 		<br>
-		{% if person.twitter %}
+        {% if person.twitter %}
           <i class="fab fa-twitter"></i> <a href= "http://twitter.com/{{person.twitter}}" target="_blank"> @{{person.twitter}} </a> <br>
         {% endif %}
         {% if person.website %}
@@ -37,6 +37,7 @@ nav: false
         {% if person.orcid %}
           <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
         {% endif %}
+
         <p class="text-justify">{{person.description | markdownify}}</p>
     </div>
 </div>
@@ -44,7 +45,7 @@ nav: false
 {% endfor %}
 
 <div class="cv">
-	{% for entry in site.data.cv_massfeller %}
+	{% for entry in site.data.cv_baumert %}
 		<div class="card mt-3 p-3">
 			<h3 class="card-title">{{ entry.title }}</h3>
 			<div>

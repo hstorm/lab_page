@@ -6,13 +6,15 @@
   email: hugo.storm@ilr.uni-bonn.de
   website: 
   scholar: hBtefwQAAAAJ&hl
-  # twitter: 
+  twitter: hugo44732954
   linkedin_username: hugo-storm-999a66a2
   research_gate_profile: Hugo_Storm
   github: hstorm
   # orcid: "orcid.org/0000-0001-9188-1920"
   description: 'I am an Agricultural economist with a focus on applied econometrics and machine learning. I am interested in farm technology adoption processes and their effect on environmental and economic outcomes.'
   cv_page: cv_storm
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  phone: +49 228 73-60828
               
 - name: Elin Martinsson
   degrees: Msc
@@ -27,6 +29,8 @@
   environmental effects. Through my research, I want to contribute knowledge on the effects of technology
   in agriculture.'
   cv_page: cv_martinsson
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
 
 - name: Anna Massfeller
   degrees: Msc
@@ -35,13 +39,30 @@
   position: PhD student
   email: anna.massfeller@ilr.uni-bonn.de
   # website: https://profiles.ucsf.edu/tobias.haeusermann
-  # scholar: 5kUDcJ0AAAAJ
+  scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
   research_gate_profile: Anna Massfeller
   github: AnnaMassfeller
   description: 'I am a Doctoral Student in Agricultural Economics with a passion for behavioral economics and farmers´ motivations. 
   I am interested in the various factors that influence farmers decision making. By exploring these factors I want to contribute to the 
   development of environmental beneficially and farmer friendly policies.'
   cv_page: cv_massfeller
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
+
+- name: Josef Baumert
+  degrees: Msc
+  image: team_baumert.jpg
+  altimage: 
+  position: PhD student
+  email: josef.baumert@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  # github: AnnaMassfeller
+  description: 'I am a Doctoral student in Agricultural Economics and interested in how data science can help to better understand farmers’ crop choices, land use and irrigation practices. Being curious about the application of (Bayesian) econometrics, machine learning and satellite imagery, I want to contribute to better agricultural and environmental policy making.'
+  cv_page: cv_baumert
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
               
               
    
