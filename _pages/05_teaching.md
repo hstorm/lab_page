@@ -11,7 +11,7 @@ nav: true
 
 *PhenoRob Interdisciplinary Lecture [PILS], April, 29, 2022, Uni Bonn*
 
-<iframe width="1268" height="713" src="https://www.youtube.com/embed/8XPGl6JwoiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8XPGl6JwoiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Instructor**
 Hugo Storm - University of Bonn, April 2022
