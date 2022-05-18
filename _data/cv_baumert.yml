@@ -24,6 +24,30 @@
   - title: 'University entrance diploma (Abitur), Gymnasium am Kurfürstlichen Schloss, Mainz'
     year: '03/15'
 
-
+- title: Internships and Work Experience
+  type: table
+  contents:
+  - title: 'Internship at ADE - Aide à la Décision Economique (Louvain-la-Neuve, Belgium)'
+    year: '09/20-02/21'
+    description:
+    - 'Internship in the Agriculture & Rural Development Department'
+  
+  - title: 'Internship at Rabobank Food & Agribusiness (Frankfurt, Germany)'
+    year: '03/19-08/19'
+    description:
+    - 'Internship in the Loan Products Group and Rabo Trading Germany'
+  
+  - title: 'Research in Vietnam, Cambodia and Laos for a CIAT Project'
+    year: '11/18-12/18'
+    description:
+    - 'Implementation of a field study to assess the innovation capacity of smallholder farmers'
+  
+  - title: 'Student assistent at the Chair of Farm Management (University of Göttingen, Germany)'
+    year: '11/18-03/19'
+   
+  - title: 'Summer internships on an organic mixed farm and on a conventional dairy farm in Germany'
+    year: '2016 and 2017'
+    description:
+    - 'Practical farm work during harvest time'
 
 
