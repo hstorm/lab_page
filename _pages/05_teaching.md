@@ -7,6 +7,16 @@ nav: true
 ---
 
 
+## Lecture: Causality without randomized experiments – from Potential Outcomes to Causal Machine Learning 
+
+*PhenoRob Interdisciplinary Lecture [PILS], April, 29, 2022, Uni Bonn*
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8XPGl6JwoiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Instructor**
+Hugo Storm - University of Bonn, April 2022
+
+
 ## Lecture: Advanced model specification with LASSO
 
 *Guest Lecture: Advanced Applied Econometrics, Master of Agricultural and Food Economics, SS2021, Uni Bonn*

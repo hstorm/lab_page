@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-<a href="http://www.phenorob.de/" target="_blank"><img style="width: 52%; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/cropped-phenorob.jpg" alt="logo PhenoRob"></a>
+<img style="width: 100%; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/group.jpg" alt="group photo" class="col-md-12; col-xs-12">
 
 ### Welcome to our group page!
 The research of the group focuses on developing and applying novel **data science** tools in the area of **agricultural** and **environmental economics**. One particular focus is on applying **econometric** and **machine learning** tools to answer **causal research questions**.

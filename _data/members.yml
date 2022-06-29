@@ -24,10 +24,8 @@
   email: elin.martinsson@ilr.uni-bonn.de
   scholar: https://scholar.google.com/citations?user=CVYjRQIAAAAJ&hl=en&oi=sra 
   # website: 
-  description: 'I am a Doctoral student in Agricultural economics currently conducting research on indirect effects of 
-  technology in agriculture. Particularly, I am interested in how eco-efficiency can be used to evaluate indirect 
-  environmental effects. Through my research, I want to contribute knowledge on the effects of technology
-  in agriculture.'
+  description: 'I am a doctoral student in agricultural economics, conducting research on farm-level consequences of technology adoption. 
+  I am interested in exploring methods to provide holistic evaluations of consequences of technology adoption and have an interest in DEA eco-efficiency evaluations.'
   cv_page: cv_martinsson
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
@@ -46,6 +44,21 @@
   I am interested in the various factors that influence farmers decision making. By exploring these factors I want to contribute to the 
   development of environmental beneficially and farmer friendly policies.'
   cv_page: cv_massfeller
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
+
+- name: Josef Baumert
+  degrees: Msc
+  image: team_baumert.jpg
+  altimage: 
+  position: PhD student
+  email: josef.baumert@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  # github: AnnaMassfeller
+  description: 'I am a Doctoral student in Agricultural Economics and interested in how data science can help to better understand farmers’ crop choices, land use and irrigation practices. Being curious about the application of (Bayesian) econometrics, machine learning and satellite imagery, I want to contribute to better agricultural and environmental policy making.'
+  cv_page: cv_baumert
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
               
