@@ -18,14 +18,13 @@
               
 - name: Elin Martinsson
   degrees: Msc
-  image: team_martinsson.jpg
+  image: team_martinsson_new.jpg
   altimage: 
   position: PhD student
   email: elin.martinsson@ilr.uni-bonn.de
   scholar: https://scholar.google.com/citations?user=CVYjRQIAAAAJ&hl=en&oi=sra 
   # website: 
-  description: 'I am a doctoral student in agricultural economics, conducting research on farm-level consequences of technology adoption. 
-  I am interested in exploring methods to provide holistic evaluations of consequences of technology adoption and have an interest in DEA eco-efficiency evaluations.'
+  description: 'I am a doctoral student in agricultural economics, conducting research on farm-level consequences of technology adoption. I am interested in exploring methods to provide holistic evaluations of consequences of technology adoption and have an interest in DEA eco-efficiency evaluations.'
   cv_page: cv_martinsson
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
