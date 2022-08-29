@@ -14,37 +14,37 @@
 #   description: ' '
 #   # cv_page: cv_storm
   
-- name: Georgi Lazarov
-  degrees: Bsc
-  # image: 
-  altimage: 
-  position: Student Assistant
-  email: georgi.st.lazarov@gmail.com
-  # website: 
-  # scholar: hBtefwQAAAAJ&hl
-  # twitter: 
-  # linkedin_username: hugo-storm-999a66a2
-  # research_gate_profile: Hugo_Storm
-  # github: hstorm
-  # orcid: "orcid.org/0000-0001-9188-1920"
-  description: ' '
-  # cv_page: cv_storm
+# - name: Georgi Lazarov
+#   degrees: Bsc
+#   # image: 
+#   altimage: 
+#   position: Student Assistant
+#   email: georgi.st.lazarov@gmail.com
+#   # website: 
+#   # scholar: hBtefwQAAAAJ&hl
+#   # twitter: 
+#   # linkedin_username: hugo-storm-999a66a2
+#   # research_gate_profile: Hugo_Storm
+#   # github: hstorm
+#   # orcid: "orcid.org/0000-0001-9188-1920"
+#   description: ' '
+#   # cv_page: cv_storm
   
-- name: Ibitayo Abiodun
-  degrees: Bsc
-  image: ibitayo.JPG
-  altimage: 
-  position: Student Assistant
-  email: S7saabio@uni-bonn.de
-  # website: 
-  # scholar: hBtefwQAAAAJ&hl
-  # twitter: 
-  # linkedin_username: hugo-storm-999a66a2
-  # research_gate_profile: Hugo_Storm
-  github: Ibitayoabiodun
-  # orcid: "orcid.org/0000-0001-9188-1920"
-  description: 'I am a Master´s student in Agricultural Science and Resource Management. Interested in how Predictive data analytic, Econometrics and Machine learning approaches can help achieve sustainable agricultural production and food security while minimizing its negative impact on our environment.'
-  # cv_page: cv_storm
+# - name: Ibitayo Abiodun
+#   degrees: Bsc
+#   image: ibitayo.JPG
+#   altimage: 
+#   position: Student Assistant
+#   email: S7saabio@uni-bonn.de
+#   # website: 
+#   # scholar: hBtefwQAAAAJ&hl
+#   # twitter: 
+#   # linkedin_username: hugo-storm-999a66a2
+#   # research_gate_profile: Hugo_Storm
+#   github: Ibitayoabiodun
+#   # orcid: "orcid.org/0000-0001-9188-1920"
+#   description: 'I am a Master´s student in Agricultural Science and Resource Management. Interested in how Predictive data analytic, Econometrics and Machine learning approaches can help achieve sustainable agricultural production and food security while minimizing its negative impact on our environment.'
+#   # cv_page: cv_storm
 
 - name: Enola Ebert
   #degrees: 
