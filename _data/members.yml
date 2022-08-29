@@ -16,36 +16,6 @@
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   phone: +49 228 73-60828
               
-- name: Elin Martinsson
-  degrees: Msc
-  image: team_martinsson_new.jpg
-  altimage: 
-  position: PhD student
-  email: elin.martinsson@ilr.uni-bonn.de
-  scholar: https://scholar.google.com/citations?user=CVYjRQIAAAAJ&hl=en&oi=sra 
-  # website: 
-  description: 'I am a doctoral student in agricultural economics, conducting research on farm-level consequences of technology adoption. I am interested in exploring methods to provide holistic evaluations of consequences of technology adoption and have an interest in DEA eco-efficiency evaluations.'
-  cv_page: cv_martinsson
-  address: Niebuhrstraße 1a, 53115 Bonn, Germany
-  # phone: +49 228 73-60828
-
-- name: Anna Massfeller
-  degrees: Msc
-  image: team_massfeller.jpg
-  altimage: 
-  position: PhD student
-  email: anna.massfeller@ilr.uni-bonn.de
-  # website: https://profiles.ucsf.edu/tobias.haeusermann
-  scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
-  research_gate_profile: Anna Massfeller
-  github: AnnaMassfeller
-  description: 'I am a Doctoral Student in Agricultural Economics with a passion for behavioral economics and farmers´ motivations. 
-  I am interested in the various factors that influence farmers decision making. By exploring these factors I want to contribute to the 
-  development of environmental beneficially and farmer friendly policies.'
-  cv_page: cv_massfeller
-  address: Niebuhrstraße 1a, 53115 Bonn, Germany
-  # phone: +49 228 73-60828
-
 - name: Josef Baumert
   degrees: Msc
   image: team_baumert.jpg
@@ -76,6 +46,36 @@
   # address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
 
+- name: Elin Martinsson
+  degrees: Msc
+  image: team_martinsson_new.jpg
+  altimage: 
+  position: PhD student
+  email: elin.martinsson@ilr.uni-bonn.de
+  scholar: https://scholar.google.com/citations?user=CVYjRQIAAAAJ&hl=en&oi=sra 
+  # website: 
+  description: 'I am a doctoral student in agricultural economics, conducting research on farm-level consequences of technology adoption. I am interested in exploring methods to provide holistic evaluations of consequences of technology adoption and have an interest in DEA eco-efficiency evaluations.'
+  cv_page: cv_martinsson
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
+
+- name: Anna Massfeller
+  degrees: Msc
+  image: team_massfeller.jpg
+  altimage: 
+  position: PhD student
+  email: anna.massfeller@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  research_gate_profile: Anna Massfeller
+  github: AnnaMassfeller
+  description: 'I am a Doctoral Student in Agricultural Economics with a passion for behavioral economics and farmers´ motivations. 
+  I am interested in the various factors that influence farmers decision making. By exploring these factors I want to contribute to the 
+  development of environmental beneficially and farmer friendly policies.'
+  cv_page: cv_massfeller
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
+  
 - name: Christoph Pahmeyer
   degrees: Dr. agr.
   image: team_pahmeyer.jpg
