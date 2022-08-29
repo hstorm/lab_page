@@ -75,6 +75,21 @@
   cv_page: cv_kuhn
   # address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
+
+- name: Christoph Pahmeyer
+  degrees: Dr. agr.
+  image: team_pahmeyer.jpg
+  altimage: 
+  position: Post-Doc 
+  email: christoph.pahmeyer@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  github: chrispahm
+  description: 'Post-Doc'
+  cv_page: cv_pahmeyer
+  # address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
               
               
    
