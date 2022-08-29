@@ -33,7 +33,7 @@
 
 - name: Till Kuhn
   degrees: Dr. agr.
-  image: team_kuhn.jpg
+  image: team_kuhn2.jpg
   altimage: 
   position: Post-Doc (starting Nov 2022)
   email: till.kuhn@ilr.uni-bonn.de
@@ -41,9 +41,9 @@
   # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
   # research_gate_profile: Anna Massfeller
   # github: AnnaMassfeller
-  description: 'Post-Doc (starting Nov 2022)'
+  description: 'I am Post-Doc working on the EU BrightSpace and LAMASUS project'
   cv_page: cv_kuhn
-  # address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
 
 - name: Elin Martinsson
@@ -75,7 +75,7 @@
   cv_page: cv_massfeller
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
-  
+
 - name: Christoph Pahmeyer
   degrees: Dr. agr.
   image: team_pahmeyer.jpg
@@ -86,9 +86,9 @@
   # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
   # research_gate_profile: Anna Massfeller
   github: chrispahm
-  description: 'Post-Doc'
+  description: 'I am Post-Doc working in the PhenoRob project'
   cv_page: cv_pahmeyer
-  # address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
               
               
