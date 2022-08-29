@@ -60,6 +60,21 @@
   cv_page: cv_baumert
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
+
+- name: Till Kuhn
+  degrees: Dr. agr.
+  image: team_kuhn.jpg
+  altimage: 
+  position: Post-Doc (starting Nov 2022)
+  email: till.kuhn@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  # github: AnnaMassfeller
+  description: 'Post-Doc (starting Nov 2022)'
+  cv_page: cv_kuhn
+  # address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
               
               
    
