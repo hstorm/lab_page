@@ -7,7 +7,7 @@ nav: false
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 {% for person in site.data.members %}
-{% if person.name == "Till pahmeyer" %}
+{% if person.name == "Christoph Pahmeyer" %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; margin-left:0px">
     <div>
         <img class="pull-right" style="float: right; width: 43%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
