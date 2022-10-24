@@ -16,6 +16,36 @@
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   phone: +49 228 73-60828
               
+- name: Josef Baumert
+  degrees: Msc
+  image: team_baumert.jpg
+  altimage: 
+  position: PhD student
+  email: josef.baumert@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  # github: AnnaMassfeller
+  description: 'I am a Doctoral student in Agricultural Economics and interested in how data science can help to better understand farmers’ crop choices, land use and irrigation practices. Being curious about the application of (Bayesian) econometrics, machine learning and satellite imagery, I want to contribute to better agricultural and environmental policy making.'
+  cv_page: cv_baumert
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
+
+- name: Till Kuhn
+  degrees: Dr. agr.
+  image: team_kuhn2.jpg
+  altimage: 
+  position: Post-Doc (starting Nov 2022)
+  email: till.kuhn@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  # github: AnnaMassfeller
+  description: 'I am Post-Doc working on the EU BrightSpace and LAMASUS project'
+  cv_page: cv_kuhn
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
+
 - name: Elin Martinsson
   degrees: Msc
   image: team_martinsson_new.jpg
@@ -46,18 +76,18 @@
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
 
-- name: Josef Baumert
-  degrees: Msc
-  image: team_baumert.jpg
+- name: Christoph Pahmeyer
+  degrees: Dr. agr.
+  image: team_pahmeyer.jpg
   altimage: 
-  position: PhD student
-  email: josef.baumert@ilr.uni-bonn.de
+  position: Post-Doc 
+  email: christoph.pahmeyer@ilr.uni-bonn.de
   # website: https://profiles.ucsf.edu/tobias.haeusermann
   # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
   # research_gate_profile: Anna Massfeller
-  # github: AnnaMassfeller
-  description: 'I am a Doctoral student in Agricultural Economics and interested in how data science can help to better understand farmers’ crop choices, land use and irrigation practices. Being curious about the application of (Bayesian) econometrics, machine learning and satellite imagery, I want to contribute to better agricultural and environmental policy making.'
-  cv_page: cv_baumert
+  github: chrispahm
+  description: 'I am Post-Doc working in the PhenoRob project'
+  cv_page: cv_pahmeyer
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
               

@@ -36,7 +36,7 @@ Principle Investigators:
 
 PhD Students: 
 
-- (Not jet hired, information will follow soon...)
+- Not jet hired: Apply [here](https://euraxess.ec.europa.eu/jobs/831987)
 
 **Interested in the project? Contact Hugo Storm (hugo.storm@ilr.uni-bonn.de)**
 
