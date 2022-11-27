@@ -16,6 +16,21 @@
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   phone: +49 228 73-60828
               
+- name: Damilola Tominsin Aladesuru
+  degrees: Msc
+  # image: team_baumert.jpg
+  altimage: 
+  position: PhD student
+  email: damilola.aladesuru@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  # github: AnnaMassfeller
+  description: 'I am a Doctoral student in Agricultural Economics.'
+  cv_page: cv_aldesuru
+  address: Niebuhrstraße 1a, 53115 Bonn, Germany
+  # phone: +49 228 73-60828
+
 - name: Josef Baumert
   degrees: Msc
   image: team_baumert.jpg
@@ -31,11 +46,26 @@
   address: Niebuhrstraße 1a, 53115 Bonn, Germany
   # phone: +49 228 73-60828
 
+- name: Bisrat Haile Gebrekidan
+  degrees: PhD
+  # image: team_baumert.jpg
+  altimage: 
+  position: Postdoctoral Researcher (starting Jan 2023)
+  email: bisrat.gebrekidan@ilr.uni-bonn.de
+  # website: https://profiles.ucsf.edu/tobias.haeusermann
+  # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
+  # research_gate_profile: Anna Massfeller
+  github: bsrthyle
+  description: 'I am Post-Doc working on the EU LAMASUS project'
+  cv_page: cv_gebrekidan
+  address: Nußallee 21, 53115 Bonn, Germany
+  phone: +49 228 73232
+
 - name: Till Kuhn
   degrees: Dr. agr.
   image: team_kuhn2.jpg
   altimage: 
-  position: Post-Doc (starting Nov 2022)
+  position: Postdoctoral Researcher
   email: till.kuhn@ilr.uni-bonn.de
   # website: https://profiles.ucsf.edu/tobias.haeusermann
   # scholar: https://scholar.google.com/citations?hl=de&user=fblA_gUAAAAJ 
