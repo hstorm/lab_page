@@ -60,7 +60,7 @@ The CRC1502 joins forces in the University of Bonn and its project partners to a
 
 While several continental regions on Earth are getting wetter, others are drying out not only in terms of precipitation but also measured by the increase or decrease in surface water, water stored in the soils, the plant root zone, and in groundwater. Observations, however, do not support a simple dry-gets-dryer and wet-gets-wetter logic and existing climate models fail to explain observed patterns of hydrological change sufficiently.
 
-<a href="https://www.lf.uni-bonn.de/en/research/crc-detect" target="_blank">DETECT project website</a>
+<a href="https://sfb1502.de/" target="_blank">DETECT project website</a>
 
 ### Project B04
 Project B04 within the CRC seeks to create land use map with detailed crop cover information and uncertainty quantification. For this we aim to use Bayesian statistical approaches to merge a broad range of input data (existing land use maps, official statistics, sample data). The map will provide a consistent and complete time series for Europe with an unprecedented combination of spatial resolution and crop coverage. Furthermore, we aim to develop a methodology that allows combining data driven models, such as deep learning methods applied to satellite imagery, with econometric land-use models considering economic and biophysical information. For combining these currently distinct approaches, techniques from the field of probabilistic programming shall be explored. Both activities are targeted to improve our knowledge of past land use (changes), which is crucial to model future land use and the implications for regional climate change within the cluster.
@@ -73,7 +73,7 @@ Principle Investigators:
 PhD Students: 
 
 - [Josef Baumer](https://hstorm.github.io/lab_page/cv_baumert/)
-- NaN
+- Elif Dönmez Altındal
 
 
 ---
